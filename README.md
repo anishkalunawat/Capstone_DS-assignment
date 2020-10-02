@@ -1,2 +1,2 @@
-# Capstone_DS-assignment
+# Coursera_Capston
 DS certification_Capston_module 9_Module_1
